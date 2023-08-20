@@ -28,6 +28,5 @@ I'm interested in Math🧮, Literature🪶, Philosophy🧠, Guitar🎸, Programm
 🥤My hobbies:
 
 [![OSS](https://img.shields.io/badge/oss-contribution-%233DA639?style=flat&logo=open%20source%20initiative)](https://github.com/sdqri)
-
-[avatar by catalyststuff](https://www.freepik.com/free-vector/cute-astronaut-playing-golf-planet-cartoon-vector-icon-illustration-sport-science-icon-concept-isolated-premium-vector-flat-cartoon-style_19351568.htm#page=2&query=astranaut%20golfing%20on%20moon&position=26&from_view=search&track=ais)
+[Avatar by catalyststuff](https://www.freepik.com/free-vector/cute-astronaut-playing-golf-planet-cartoon-vector-icon-illustration-sport-science-icon-concept-isolated-premium-vector-flat-cartoon-style_19351568.htm#page=2&query=astranaut%20golfing%20on%20moon&position=26&from_view=search&track=ais)
 
