@@ -21,7 +21,6 @@ I'm interested in Math🧮, Literature🪶, Philosophy🧠, Guitar🎸, Programm
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
 ![Docker](https://img.shields.io/badge/docker-containers-%232496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-containers-%23326CE5?style=flat&logo=kubernetes)
-![OpenGL](https://img.shields.io/badge/opengl-graphics-%23FFFFFF?style=flat&logo=opengl)
 
 
 🥤 My hobbies include:
